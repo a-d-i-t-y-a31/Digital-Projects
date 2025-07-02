@@ -8,7 +8,7 @@ This project implements a **2-bit Arithmetic and Logic Unit (ALU)** in **Verilog
 
 - `AGV_dig_task.v` – Main ALU module implementing logic and arithmetic operations  
 - `tb_AGV_dig.v` – Testbench to validate ALU behavior across all supported operations  
-- `adder4.v` and `multiplier2x2.v` – Required helper modules for 4-bit addition and 2x2-bit multiplication (assumed to be present)
+- `adder4.v` and `multiplier2x2.v` – Required helper modules for 4-bit addition and 2x2-bit multiplication
 
 ---
 
